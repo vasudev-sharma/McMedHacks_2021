@@ -1,4 +1,4 @@
-# McMedHacks 2021
+# McMedHacks 2021 ![](https://img.shields.io/badge/python-3+-blue.svg) <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 ![](assets/images/McMedHack_logo.png)
 
