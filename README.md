@@ -7,6 +7,8 @@
 This repo contains the curation of resources of the workshops hosted by McMedHacks from **June 21th - July31st 2021**. This repo will provide an opportunity to get access to the resources to those who might have missed an opportunity to attend this workshop. Also, since all the information is centralized in this single repository, it will be helpful to those who want to get a refresher at the amazing set of resources.
 
 ## Workshops Schedule
+> Note: First go over the assignment and then try to solve the questions before heading towards the solution of that particular week
+
 |Week  |Date       |About                               |Assignment                                                                                                                                                                 |Solutions                                                                                                                                                                  |
 |------|-----------|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Week-1|June 12th  |Intro to Python for deep learning   |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FB2fJ4dUPzjM3JM4W4UbWHEcG_EgEQpv?usp=sharing) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10LPpBQpamlGdqwFW17-ORyI8p-3DgKis?usp=sharing) |
